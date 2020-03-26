@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26401" started-at="2020-03-09T07:02:29Z" finished-at="2020-03-09T07:02:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26401" started-at="2020-03-09T07:02:29Z" finished-at="2020-03-09T07:02:55Z">
+      <class name="test.Googledemo">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:test.Googledemo@59fa1d9b]" name="setBrowser" is-config="true" duration-ms="13211" started-at="2020-03-09T07:02:29Z" finished-at="2020-03-09T07:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="checklogo()[pri:0, instance:test.Googledemo@59fa1d9b]" name="checklogo" duration-ms="118" started-at="2020-03-09T07:02:42Z" finished-at="2020-03-09T07:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogo -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.Googledemo@59fa1d9b]" name="closebrowser" is-config="true" duration-ms="910" started-at="2020-03-09T07:02:42Z" finished-at="2020-03-09T07:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:test.Googledemo@59fa1d9b]" name="setBrowser" is-config="true" duration-ms="11307" started-at="2020-03-09T07:02:43Z" finished-at="2020-03-09T07:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="checkurl()[pri:0, instance:test.Googledemo@59fa1d9b]" name="checkurl" duration-ms="12" started-at="2020-03-09T07:02:54Z" finished-at="2020-03-09T07:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkurl -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:test.Googledemo@59fa1d9b]" name="closebrowser" is-config="true" duration-ms="796" started-at="2020-03-09T07:02:54Z" finished-at="2020-03-09T07:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.Googledemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
